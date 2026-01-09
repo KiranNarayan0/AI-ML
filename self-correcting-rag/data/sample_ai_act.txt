@@ -1,0 +1,57 @@
+
+        EU AI Act - Key Provisions
+        
+        The European Union Artificial Intelligence Act establishes a comprehensive regulatory framework
+        for AI systems based on risk levels. The Act categorizes AI systems into four risk categories:
+        
+        1. UNACCEPTABLE RISK (Prohibited):
+        - Social scoring systems by governments
+        - Real-time biometric identification in public spaces (with limited exceptions for law enforcement)
+        - AI systems that manipulate human behavior to circumvent free will
+        - AI systems that exploit vulnerabilities of specific groups
+        
+        2. HIGH-RISK AI SYSTEMS:
+        High-risk AI systems must comply with strict requirements including:
+        - Risk management systems
+        - High-quality training data and data governance
+        - Technical documentation and record-keeping
+        - Transparency and provision of information to users
+        - Human oversight measures
+        - Robustness, accuracy, and cybersecurity
+        
+        Examples of high-risk AI include:
+        - Biometric identification and categorization
+        - Critical infrastructure management
+        - Educational and vocational training systems
+        - Employment, worker management, and self-employment access
+        - Access to essential services (credit scoring, emergency services)
+        - Law enforcement systems
+        - Migration, asylum, and border control management
+        - Administration of justice and democratic processes
+        
+        3. LIMITED RISK:
+        Systems with transparency obligations, such as chatbots where users should be
+        informed they're interacting with AI.
+        
+        4. MINIMAL RISK:
+        Most AI systems fall here with no specific obligations beyond existing laws.
+        
+        COMPLIANCE REQUIREMENTS:
+        - Providers of high-risk AI must conduct conformity assessments
+        - CE marking required for compliant high-risk AI systems
+        - Post-market monitoring and incident reporting obligations
+        - AI systems must maintain logs for auditing purposes
+        
+        GOVERNANCE:
+        - EU AI Office established for coordination
+        - National competent authorities in each member state
+        - European Artificial Intelligence Board for guidance
+        
+        PENALTIES:
+        - Up to €35 million or 7% of global annual turnover for prohibited AI violations
+        - Up to €15 million or 3% of turnover for other violations
+        - Up to €7.5 million or 1.5% of turnover for supplying incorrect information
+        
+        The Act applies to providers placing AI systems on the EU market and users of AI systems
+        within the EU, regardless of where the provider is located.
+        

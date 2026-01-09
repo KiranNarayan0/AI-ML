@@ -1,0 +1,70 @@
+AI GOVERNANCE DOCUMENTS - DOWNLOAD REPORT
+======================================================================
+
+Generated: 2026-01-09 10:37:54
+Download Folder: /workspaces/AI-ML/self-correcting-rag/AI_Governance_Documents
+
+SUMMARY STATISTICS:
+======================================================================
+Total Files: 33
+Successfully Downloaded: 0
+Skipped (Already Existed): 32
+Failed Downloads: 1
+Total Time: 0m 4s
+
+FOLDER STRUCTURE:
+======================================================================
+
+01_EU_AI_Act/ (EU AI Act Documents)
+  Files: 4
+
+02_GDPR/ (GDPR Compliance Guidelines)
+  Files: 3
+
+03_Ethics_Frameworks/ (AI Ethics Frameworks)
+  Files: 3
+
+04_Model_Governance/ (Model Governance Best Practices)
+  Files: 4
+
+05_NIST_Framework/ (NIST AI Risk Management Framework)
+  Files: 2
+
+06_Standards/ (International Standards)
+  Files: 1
+
+07_Transparency/ (Transparency & Accountability)
+  Files: 3
+
+08_US_Government/ (US Government Frameworks)
+  Files: 2
+
+09_UK_Government/ (UK AI Governance)
+  Files: 2
+
+10_WEF_Resources/ (World Economic Forum)
+  Files: 4
+
+11_Partnership_AI/ (Partnership on AI)
+  Files: 1
+
+12_Specialized/ (Specialized Frameworks)
+  Files: 3
+
+
+FAILED DOWNLOADS (1):
+======================================================================
+
+File: 01_EU_AI_Act/02_EU_AI_Act_Guide_TwoBirds.pdf
+URL: https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide-v4-2024.pdf
+Error: HTTP Error 404: Not Found
+---
+
+
+RECOMMENDATIONS:
+======================================================================
+1. Organize your documents in the category folders
+2. Cross-reference between frameworks for comprehensive understanding
+3. Use a PDF reader that supports bookmarks and annotations
+4. For failed downloads, try manual download from the provided URLs
+5. Keep this folder updated as new versions are released
